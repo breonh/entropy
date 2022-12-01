@@ -1,4 +1,5 @@
 """
+Adding this
 Compute the entropy in bits of a list of probabilities.
 """
 

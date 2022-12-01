@@ -1,0 +1,6 @@
+name: entropy
+channels:
+  - defaults
+dependencies:
+  - numpy
+prefix: /home/breonh/anaconda3/envs/entropy
